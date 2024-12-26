@@ -1,5 +1,5 @@
 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+STANY-TECH +MD+BOT+CREATED+BY+STANLEY +tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+STANY-TECH +MD+BOT+CREATED+BY+STANLEYs +tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
  <a href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv">
