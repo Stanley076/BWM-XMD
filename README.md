@@ -1,5 +1,5 @@
 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+STANY-TECH +MD+BOT+CREATED+BY+STANLEY +tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
  <a href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv">
@@ -7,7 +7,7 @@ align="center">
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
-YESSER MD</b>, simple powerful bot </p>
+STANY-TECH-MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
